@@ -2,6 +2,11 @@
 # Site: https://github.com/jeff38100/ad-block
 # Test: https://d3ward.github.io/toolz/adblock.html
 #=====================================
+# [Divers ADS]
+0.0.0.0 opti-digital.com
+0.0.0.0 thepcspy.com
+
+#=====================================
 # [Realme]
 0.0.0.0 bdapi-ads.realmemobile.com
 
@@ -17,6 +22,10 @@
 #=====================================
 # [Samsung]
 0.0.0.0 samsung-com.112.2o7.net
+
+#=====================================
+# [OnePlus]
+0.0.0.0 click.oneplus.cn
 
 #=====================================
 # [Amazon]
