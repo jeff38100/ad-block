@@ -1,5 +1,6 @@
 # Title: Jeff38100/hosts
 # Site: https://github.com/jeff38100/ad-block
+# Test: https://d3ward.github.io/toolz/adblock.html
 #=====================================
 # [Realme]
 0.0.0.0 bdapi-ads.realmemobile.com
