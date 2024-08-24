@@ -5,6 +5,7 @@
 # [Divers ADS]
 0.0.0.0 opti-digital.com
 0.0.0.0 thepcspy.com
+0.0.0.0 o1069899.ingest.sentry.io
 
 #=====================================
 # [Realme]
